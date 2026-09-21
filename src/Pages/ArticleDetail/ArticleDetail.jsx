@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useParams, Link } from "react-router";
-import siteData from "../../data/posts.json";
+import siteData from "../../Data/posts.json";
 import PostCard from "../../Components/Card/Card.jsx";
 
 function ArticleDetail() {

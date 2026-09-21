@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router";
-import siteData from "../../data/posts.json";
+import siteData from "../../Data/posts.json";
 
 export default function Footer() {
 

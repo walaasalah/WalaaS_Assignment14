@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { Link, NavLink } from "react-router";
-import siteData from "../../data/posts.json";
+import siteData from "../../Data/posts.json";
 import Logo from "../../assets/Images/imgi_1_logo-GdqARQRt.png";
 
 export default function Navbar() {

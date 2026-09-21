@@ -1,5 +1,5 @@
 import React from 'react'
-import siteData from "../../data/posts.json";
+import siteData from "../../Data/posts.json";
 
 export default function About() {
   const posts = siteData.posts || [];

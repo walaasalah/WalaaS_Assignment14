@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, useSearchParams } from "react-router";
-import siteData from "../../data/posts.json";
+import siteData from "../../Data/posts.json";
 import Card from "../../Components/Card/Card.jsx";
 import ListCard from "../../Components/ListCard/ListCard.jsx";
 import { useEffect } from "react";
